@@ -16,6 +16,9 @@ pada prompt mysql berikan perintah membuat database dengan nama crud-laravel<br>
 selesai, kembali ke prompt dengan ctrl + D alias exit<br>
 <code>mysql> exit;</code>
 
+Update composer dengan perintah
+<br><code>$ composer update</code>
+
 jalankan migrate agar tabel terbentuk
 <br><code>$ php artisan migrate</code>
 
